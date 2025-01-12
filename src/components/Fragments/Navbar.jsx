@@ -142,7 +142,7 @@ const Navbar = () => {
               <img src="images/profile.png" />
             </div>
             <div className="hidden sm:block">
-              <div className="text-white font-bold">{name}</div>
+              <div className="text-white font-bold">AMIRUL SALIS</div>
               <div className="text-xs">View Profile</div>
             </div>
             <div className="hidden sm:block self-center">
